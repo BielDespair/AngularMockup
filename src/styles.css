@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+html,
+body {
+  background-color: #f6f8f9;
+  /* ou a cor de fundo que quiser */
+}
+
+.card {
+  padding: 24px;
+  border-radius: 12px;
+  outline: 1px solid #eff1f2;
+  word-break: break-all;
+}

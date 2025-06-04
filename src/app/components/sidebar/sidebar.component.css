@@ -1,0 +1,26 @@
+:host {
+    background-color:white;
+    padding: 24px;
+    outline: 1px solid #eff1f2;
+
+    border-radius: 12px;
+}
+
+nav {
+
+}
+
+ul {
+    list-style: none
+}
+
+.nav-item {
+    display: flex;
+    color: rgb(252, 13, 13);
+    border-left-color: #16a085;
+}
+
+.nav-item.active {
+    background-color: white;
+    border-left-color: #16a085;
+}
